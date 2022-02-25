@@ -1,0 +1,11 @@
+id: author2
+fields:
+  pageTitle: Author - mani
+placeholders:
+  jss-main:
+    - componentName: AuthorDetails
+      fields:
+        name: mani
+        designation: Sr. Doctor
+        emailId: krish@mail.com
+        phoneNumber: 234343434343
